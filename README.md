@@ -1,10 +1,14 @@
 # 🙎‍♀️💻🙎‍♂️  인생은 50부터! "후반전"
+
+
 ### 인터넷 접근이 어려운 고령층이 놀기 쉬운 커뮤니티사이트입니다.
 UX가 부족한 시니어를 위한 직관적 UI를 바탕으로 한 커뮤니티로, 고령사회에서 발생하는 노인 외로움, 사회활동 부족 등의 문제를 해결하기 위한 고민으로 탄생했습니다.
 </br>
 </br>
 
  # 📃 프로젝트 정보
+![후반전로고](https://github.com/beetnalhee/project_secondHalf/assets/151362604/1e685c84-4af4-4709-8588-57035c85c3d8)
+ 
 > 1. 제작기간 : 2024.05.13 ~ 06.07.
 > 2. 참여인원 5명
 > 3. 개발한 부분 : 채팅
@@ -22,12 +26,14 @@ UX가 부족한 시니어를 위한 직관적 UI를 바탕으로 한 커뮤니�
 > SpringBoot</br>
 > Juint</br>
 > MyBatis<br />
+
 > * Front-end : </br>
 > HTML</br>
 > CSS</br>
 > JavaScript</br>
 > React</br>
 > KakaomapAPI</br>
+
 > * DBMS :</br>
 > Oracle<br />
 
