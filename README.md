@@ -9,11 +9,26 @@
 >
 > <br />
 
-# 📚 환경 및 사용기술
+# 📚 개발환경 및 사용기술
 
-> * Back-end : Spring SpringBoot Juint MyBatis<br />
-> * Front-end : HTML CSS JavaScript React KakaomapAPI<br />
-> * DBMS : Oracle<br />
+> * Development Environment</br>
+> IntelliJ</br>
+> Postman</br>
+> VsCode</br>
+
+> * Back-end : </br>
+> Spring</br>
+> SpringBoot</br>
+> Juint</br>
+> MyBatis<br />
+> * Front-end : </br>
+> HTML</br>
+> CSS</br>
+> JavaScript</br>
+> React</br>
+> KakaomapAPI</br>
+> * DBMS :</br>
+> Oracle<br />
 
 
 <br />
@@ -55,6 +70,7 @@
 > * open api 내 정보를 mapDto에 담고, mapDto 객체를 model에 추가하여 장소 상세정보 출력
 > * 장소 DB추가 및 리뷰 작성 기능</br>
 > * [코드보기](https://github.com/beetnalhee/project_secondHalf/blob/main/src/main/java/com/ezen/springmvc/web/map/controller/MapController.java)
+</br>
 
 ### 2. 일상공유 
 > * 고령층을 위한 쉬운 인스타그램 
@@ -63,6 +79,7 @@
 > * 좋아요, 다중파일 업로드 및 미리보기 기능
 > * 프로필 클릭하면 1:1 대화하기 기능으로 연결</br>
 > * [코드보기](https://github.com/beetnalhee/project_secondHalf/blob/main/src/main/java/com/ezen/springmvc/web/daily/controller/DailyController.java)
+</br>
 
 ### 3. 동네친구
 > * 동네 어르신들이 온/오프라인으로 만날 수 있는 소모임 기능
@@ -70,16 +87,22 @@
 > * 게시글 생성 시, MEET_ROOM 생성되고 참여하기 버튼 클릭 시 memberId를 해당 게시글에 추가하여 모임 참여자 명단을 LIST로 출력
 > * 짝꿍 카테고리를 통해 1:1 대화창으로 이동</br>
 > *  [코드보기](https://github.com/beetnalhee/project_secondHalf/blob/main/src/main/java/com/ezen/springmvc/web/meet/controller/MeetController.java)
+</br>
 
 ### 4. 대화하기(채팅) 
 > * 일상공유게시물을 통한 대화 또는 동네친구에서 짝꿍 카테고리를 통한 채팅기능
 > * WebSocket을 활용한 양방향 서버통신
 > * 접속 시, roomId에 대한 subscribe로 지속적인 메세지 수신 가능
-> * API를 활용한 메세지 송수신
 > * 수신한 메세지를 DB에 저장, 채팅화면에 DOM처리</br>
 > *  [코드보기](https://github.com/beetnalhee/project_secondHalf/blob/main/src/main/java/com/ezen/springmvc/web/chat/controller/ChatRoomController.java)
+</br>
 
-
+### 5. 회원관리 
+> * 회원관리용 관리자 모드 
+> * 등록한 이메일로 임시비밀번호 전송 및 DB변경 기능
+> * 회원정보 업데이트(닉네임,대표사진)
+> *  [코드보기](https://github.com/beetnalhee/project_secondHalf/blob/main/src/main/java/com/ezen/springmvc/web/member/controller/MemberController.java)
+</br>
 
 
 
