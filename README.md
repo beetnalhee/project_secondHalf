@@ -32,7 +32,7 @@
 <summary>Structure</summary>
 <div markdown="1">
 
-<img src="https://github.com/beetnalhee/project_secondHalf/assets/151362604/07f6fe74-5d69-45be-b1c1-8a3eefd2a913" width="600" height="400"/></br>
+<img src="https://github.com/beetnalhee/project_secondHalf/assets/151362604/07f6fe74-5d69-45be-b1c1-8a3eefd2a913" width="600" height="350"/></br>
 
 </div>
 </details>
