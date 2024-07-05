@@ -18,8 +18,8 @@
 
 > * Development Environment</br>
 > IntelliJ</br>
-> Postman</br>
 > VsCode</br>
+> Postman</br>
 
 > * Back-end : </br>
 > Spring</br>
