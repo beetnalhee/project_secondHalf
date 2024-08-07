@@ -112,6 +112,10 @@
 </br>
 
 
+# ⏳ 개발 후기
+> [아쉬운점 & 개선점](https://www.notion.so/fa1c547f67304c3fa7e783bd66e7eb60?pvs=4)
+
+
 # 📘 자료
 > [후반전_파이널 프로젝트 결과보고서](https://github.com/user-attachments/files/15816163/_._.pdf)
 
