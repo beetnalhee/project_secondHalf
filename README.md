@@ -18,7 +18,7 @@
 
 > * Development Environment</br>
 > IntelliJ</br>
-> VsCode</br>
+> VSCode</br>
 > Postman</br>
 
 > * Back-end : </br>
